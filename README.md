@@ -1,4 +1,4 @@
-# Video-Background-Remover
+
 # Video Background Remover
 
 This repository contains a Jupyter Notebook (**BG_Remover.ipynb**) that demonstrates how to remove the background from a video. The notebook processes an input video frame-by-frame, removes the background, and produces an output video with the background replaced.
