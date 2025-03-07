@@ -47,6 +47,8 @@ This repository contains a Jupyter Notebook (**BG_Remover.ipynb**) that demonstr
    - Set up the environment and download necessary resources.
    - Process the video frame-by-frame to remove the background.
    - Save the output video to the specified location.
+  
+
 ##Output
 ![image](https://github.com/user-attachments/assets/e792b77c-57e7-4f9a-9d79-84910c9d5d07)
 
